@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "distanceFinder", "distanceFinder\distanceFinder.csproj", "{698DC11C-BD47-4B35-A390-F54140F33641}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "distanceFinderTests", "distanceFinderTests\distanceFinderTests.csproj", "{84B4CC01-E427-4352-B71F-43D304A2E7AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{698DC11C-BD47-4B35-A390-F54140F33641}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{698DC11C-BD47-4B35-A390-F54140F33641}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{698DC11C-BD47-4B35-A390-F54140F33641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B4CC01-E427-4352-B71F-43D304A2E7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B4CC01-E427-4352-B71F-43D304A2E7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B4CC01-E427-4352-B71F-43D304A2E7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B4CC01-E427-4352-B71F-43D304A2E7AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
